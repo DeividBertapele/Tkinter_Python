@@ -1,4 +1,4 @@
-# Como criar uma agenda telefônica usando python
+# Desenvolva seu aplicativo de clima ( Weather App ) com Python 
 
 
 - Criar Layout do projeto
@@ -15,3 +15,7 @@ Link:
 
     API usada:
         link : https://openweathermap.org/api
+        
+        
+        
+![clima_tk](https://user-images.githubusercontent.com/43301551/215277161-50d63ef9-3f6d-4953-a0ff-449e96ce1cce.png)
